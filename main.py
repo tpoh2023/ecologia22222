@@ -40,4 +40,4 @@ async def advice(ctx):
     advice = random.choice(list_advice)
     await ctx.send(advice)
 
-bot.run("MTIyNTgzNzI1ODU5NTIzODAxMA.GZN6xo.CJY910JY54FrR75BKGq2aS8RPAABcxostFWMfQ")
+bot.run("")
